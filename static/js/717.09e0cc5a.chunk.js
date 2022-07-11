@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdevoveryApp=self.webpackChunkdevoveryApp||[]).push([[717],{717:function(e,o,a){a.r(o);var r=a(184);o.default=function(){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)("h2",{children:"You can save you phonebook here"}),(0,r.jsx)("img",{alt:"book",src:"https://images.unsplash.com/photo-1506513083865-434a8a207e11?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"})]})}}}]);
+//# sourceMappingURL=717.09e0cc5a.chunk.js.map

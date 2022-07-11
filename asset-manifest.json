@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/devoveryApp/static/css/main.1930faae.css",
+    "main.js": "/devoveryApp/static/js/main.6ffb38bf.js",
+    "static/js/449.48264e4a.chunk.js": "/devoveryApp/static/js/449.48264e4a.chunk.js",
+    "static/js/58.999b0b14.chunk.js": "/devoveryApp/static/js/58.999b0b14.chunk.js",
+    "static/js/468.0f87c3b1.chunk.js": "/devoveryApp/static/js/468.0f87c3b1.chunk.js",
+    "static/js/717.09e0cc5a.chunk.js": "/devoveryApp/static/js/717.09e0cc5a.chunk.js",
+    "static/js/731.696fc14f.chunk.js": "/devoveryApp/static/js/731.696fc14f.chunk.js",
+    "static/js/263.fd4aa3f5.chunk.js": "/devoveryApp/static/js/263.fd4aa3f5.chunk.js",
+    "index.html": "/devoveryApp/index.html",
+    "main.1930faae.css.map": "/devoveryApp/static/css/main.1930faae.css.map",
+    "main.6ffb38bf.js.map": "/devoveryApp/static/js/main.6ffb38bf.js.map",
+    "449.48264e4a.chunk.js.map": "/devoveryApp/static/js/449.48264e4a.chunk.js.map",
+    "58.999b0b14.chunk.js.map": "/devoveryApp/static/js/58.999b0b14.chunk.js.map",
+    "468.0f87c3b1.chunk.js.map": "/devoveryApp/static/js/468.0f87c3b1.chunk.js.map",
+    "717.09e0cc5a.chunk.js.map": "/devoveryApp/static/js/717.09e0cc5a.chunk.js.map",
+    "731.696fc14f.chunk.js.map": "/devoveryApp/static/js/731.696fc14f.chunk.js.map",
+    "263.fd4aa3f5.chunk.js.map": "/devoveryApp/static/js/263.fd4aa3f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1930faae.css",
+    "static/js/main.6ffb38bf.js"
+  ]
+}
