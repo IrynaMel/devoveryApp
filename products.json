@@ -1,0 +1,46 @@
+[{
+	"name": "hero Product",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "99",
+    "shop": "Silpo",
+	"hero": "OMG This just came out today!",
+	"image": "http://placehold.it/940x300/999/CCC"
+},{
+	"name": "Product 1",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "300",
+    "shop": "Silpo",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"image": "http://placehold.it/300x300/999/CCC"
+},{
+	"name": "Product 2",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "345",
+    "shop": "ATB",
+	"image": "http://placehold.it/300x300/999/CCC"
+},{
+	"name": "Product 3",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "102",
+    "shop": "Silpo",
+	"image": "http://placehold.it/300x300/999/CCC"
+},{
+	"name": "Product 4",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "679",
+    "shop": "RTC",
+	"image": "http://placehold.it/300x300/999/CCC"
+},{
+	"name": "Product 5",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "567",
+    "shop": "Silpo",
+	"image": "http://placehold.it/300x300/999/CCC"
+},{
+	"name": "Product 6",
+	"detail": "Lorem ipsum dolor sit amet",
+	"price": "586",
+    "shop": "AtB",
+	"info": "This is the latest and greatest product from Derp corp.",
+	"image": "http://placehold.it/300x300/999/CCC"
+}]
