@@ -10,7 +10,7 @@ import { PersistGate } from 'redux-persist/integration/react';
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <Provider store={store}>
-      <BrowserRouter basename="">
+      <BrowserRouter basename="irynamel.github.io">
         <PersistGate loading={'loading'} persistor={persistor}>
           <App />
         </PersistGate>
